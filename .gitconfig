@@ -1,0 +1,3 @@
+[push]
+# Assume push current branch. No need to git push -u origin feature/mybranch, just git push
+default = current
